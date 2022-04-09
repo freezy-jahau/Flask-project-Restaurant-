@@ -1,0 +1,8 @@
+body {
+    background-image: url('FrontPage.jpeg');
+    background-size: 1300px 650px;
+}
+h1{
+    background-color: rgb(206, 250, 222);
+    opacity: 0.5;
+}
